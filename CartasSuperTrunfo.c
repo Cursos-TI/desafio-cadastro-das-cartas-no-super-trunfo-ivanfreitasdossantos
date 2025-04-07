@@ -78,9 +78,6 @@ int main() {
 
 
 
- 
- 
-
 
     
     // Cadastro das Cartas:
